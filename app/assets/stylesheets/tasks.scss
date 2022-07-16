@@ -1,0 +1,22 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+
+.container {
+  width: 800px;
+  margin: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container li {
+  font-size: 18pt;
+}
+
+h1 {
+  font-size: 40pt;
+}
+
+.task-list {
+  list-style-type: square;
+}
